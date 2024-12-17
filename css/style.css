@@ -1,0 +1,345 @@
+header{
+    background-color:aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+  
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+nav {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100%;
+ width: 100%;
+ 
+
+
+}
+a:hover {
+    
+    color:black; 
+}
+div h1{
+    font-size: 30px;
+    padding-right: 60px;
+    color:#0077b6;
+}
+#menu_actuel{
+    text-decoration-line: underline;
+    }
+div a {
+   
+    padding-right: 19px;
+    text-decoration: none;
+    color:#00b4d8 ;}
+    body{
+        width: 100%;
+        height: 100%;
+        background-color: white;
+    }
+    footer {
+        background-color:aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+
+    }
+    footer h3{
+        padding: 10px 10px;
+        text-align: center;
+        color:#0077b6;
+    }
+    footer p {
+        padding: 5 px 10px;
+        text-align: center;
+        color:#00b4d8 ;}
+        #bonj{
+            font-style: italic;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+  .texte{
+    margin: auto;
+    border: 2px solid #00b4d8; 
+    padding: 15px; 
+    border-radius: 8px; 
+    background-color:aliceblue;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1); 
+    max-width: 500px; 
+    margin-left: 300px; 
+    margin-top: 120px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+    #img{
+        width: 330px; 
+        height: auto;
+        margin-right: 300px; 
+        float: right;
+        box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 8px; 
+       
+    }
+    .social{
+        margin-left:490px;
+        margin-bottom: 200px;
+        width: 200px; 
+    }
+    #cv{
+        background-color: #0077b6;
+        font-family:Arial, Helvetica, sans-serif;
+        color: white;
+        border-radius: 5px;
+        margin-left:1000px;
+        border:none;
+        width: 150px; 
+        height: 50px; 
+        padding: 10px 10px; 
+         font-size: 16px; 
+         position: absolute ;
+         right : 380px;
+          bottom: 100px;
+    }
+    #menu_actuel{
+        text-decoration-line: underline;
+        
+        }
+      a:hover {
+          
+        color:black;
+      }
+      #parcours {
+        width: 80%;
+        margin: 0 auto;
+        font-family: Arial, sans-serif;
+        color: #333;
+        
+       
+      }
+      
+      #parcours h2 {
+        text-align: center;
+        color: #0077b6;
+        font-size: 2em;
+        margin-bottom: 20px;
+      }
+      
+      #parcours div {
+           
+        padding: 15px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+        background-color: aliceblue;
+        background: #fff;
+          border-radius: 8px;
+          box-shadow: 2px 2px 4px 6px rgba(0, 0, 0, 0.2);
+          font-family: Arial, sans-serif;
+      }
+      
+      #parcours h3 {
+        font-size: 24px;
+          color: #0077b6;
+          margin-bottom: 20px;
+        color: #0077b6;
+        font-size: 1.5em;
+        margin-bottom: 10px;
+      }
+      
+      #parcours p {
+        margin: 0;
+        font-size: 1em;
+        line-height: 1.6;
+        padding: 15px;
+
+       #parcours label {
+            font-family: Arial, Helvetica, sans-serif
+        }
+      }
+      span{
+          color:#00b4d8;
+      
+          font-style: italic;
+          font-size: 70%;
+      }
+      #competences {
+        max-width: 800px;
+        margin: 40px auto;
+        padding: 20px;
+        background: #fff;
+        border-radius: 8px;
+        box-shadow: 2px 2px 4px 6px rgba(0, 0, 0, 0.2);
+        font-family: Arial, sans-serif;
+    }
+    
+    
+    #competences h2 {
+        font-size: 24px;
+        color: #0077b6;
+        text-align: center;
+        border-bottom: 2px solid #0077b6;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+    }
+    
+    .skill {
+        margin-bottom: 20px;
+    }
+    
+    .skill label {
+        font-size: 16px;
+        margin-bottom: 10px;
+        display: block;
+        color: #333;
+    }
+    
+    
+    .progress {
+        background: #f0f0f0;
+        border-radius: 20px;
+        overflow: hidden;
+        height: 20px;
+        position: relative;
+    }
+    
+    .progress-bar {
+        height: 100%;
+        background: #0077b6;
+        color: white;
+        text-align: center;
+        
+    }
+    #paragraphe{
+           
+        padding: 15px;
+        margin: 20px;
+        background-color: aliceblue;
+        font-family: Arial, Helvetica, sans-serif;
+        background: #fff;
+  border-radius: 8px;
+  box-shadow: 2px 2px 4px 6px rgba(0, 0, 0, 0.2);
+  font-family: Arial, sans-serif;
+  
+      }
+      
+      #paragraphe h3 {
+        color: #0077b6;
+        font-size: 1.5em;
+        margin: 10px;
+        font-size: 24px;
+
+  
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+
+      }
+      #image{
+          display: flex;
+          justify-content: space-around; 
+          align-items: center;
+          
+      }
+      #iit{
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        text-align: center;
+        background-color:#0077b6;
+        height:20%;
+        width: auto;
+        margin-top:1%;
+    }
+    video{
+        
+        border-radius: 15px 15px;
+    }
+
+    #contact{
+        margin: 5% 20%;
+        padding: 15px;
+        border-radius:12px ;
+        font-family: Arial, Helvetica, sans-serif;
+        box-shadow: 2px 2px 4px 6px rgba(0, 0, 0, 0.2);
+        border-radius: 8px;
+        text-align: center;
+
+    }
+    #quizForm{
+        margin: 5% 20%;
+        padding: 15px;
+        border-radius:12px ;
+        font-family: Arial, Helvetica, sans-serif;
+        box-shadow: 2px 2px 4px 6px rgba(0, 0, 0, 0.2);
+        border-radius: 8px;
+    }
+    #contact input, #contact button , #contact textarea, #contact label,#quizForm, #quizForm button{
+        width: 80%;
+        padding: 10px;
+        margin: 30px 100px;
+        border-radius: 8px;
+        border: 1px solid #ccc;
+        font-size: 1rem;
+    }
+   
+
+    #contact button ,#quizForm button {
+        background-color: #0077b6;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+
+    #contact button:hover ,#quizForm button:hover {
+        background-color: #0077b6;
+    }
+    #contact h2 ,#quizForm h3{
+        color: #0077b6;
+        
+    }
+    label {
+        display: block;
+        padding: 10px;
+        background-color: #f0f0f0;
+        margin-bottom: 5px;
+        margin-left:80px;
+        margin-right:80px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+    /* Changement de couleur au survol */
+    label:hover {
+        background-color: #e0e0e0;
+    }
+
+    /* Style de base pour les boutons radio (invisible) */
+    input[type="radio"] {
+        display: none;
+    }
+
+    /* Changement de couleur de fond lorsque l'option est sélectionnée */
+    input[type="radio"]:checked + label {
+        background-color: #0077b6; /* Couleur de fond lorsque sélectionné */
+        color: white; /* Changement de couleur du texte */
+    }
+
+    /* Style du texte à l'intérieur du label */
+    label {
+        color: #333;
+    }
+    .correct {
+        background-color: #4CAF50; /* Vert pour la bonne réponse */
+        color: white;
+    }
+
+    
+    #score {
+        font-size: 20px;
+        font-weight: bold;
+        color: #4CAF50; /* Couleur verte pour le score */
+        margin-top: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+
+    h2{
+        color: #0077b6;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+    
